@@ -1,0 +1,10 @@
+git clone https://github.com/GustavoMimim/BTSoftware.git
+
+git init
+
+git add . *
+git commit -m "Adicionando Arquivos"		//git commit -m "Fix issue #1"
+git remote add origin https://github.com/GustavoMimim/BTSoftware.git
+git push -u origin master --force
+
+git push				 //para atualizar

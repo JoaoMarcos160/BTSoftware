@@ -11,6 +11,7 @@
 #include<locale.h>
 #include<windows.h>
 #include <stdlib.h>
+//Teste 123
 
 #define max 40
 #define CONVERSOR 48
